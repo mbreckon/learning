@@ -35,3 +35,23 @@ There are some useful observations on the advantages of declaring patterns
 5. allows for checking and analysis
 6. documents the system for maintainers
 
+**Evaluating patterns**
+The paper defines a set of sections to describe each pattern: Problem, Context, Solution, Diagram, Significant Variants, Examples. The rest of the papers fills these in for eight different patterns. 
+
+**The Pipeline architectural pattern**
+Whilst being aware of this pattern already having worked a little with UNIX systems, I almost had a chance to use this pattern in a real world application the day after I'd read this. The goal of the application changed meaning a different architectural pattern was a better fit but it was interesting to see this in the wild. It is also interesting to see the connection to LINQ, IEnumerable and it's counterpart IObservable.
+
+**The implicit invocation architectural pattern**
+I've seen this used for a desktop application that didn't need to be reconfigurable on the fly. The cost associated with losing the ease of reasoning about the system (as stated in the paper "Reasoning about the corectness of the sytem depends very heavily on reasoning about the kinds of events, the collection of components, and their collective effect; this is trickier than reasoning about correctness when the execution order is known") is not worth paying if the system doesn't need to be dynamically reconfigurable. 
+
+**The repository architectural pattern**
+Having come across the blackboard version of this pattern in my first ever job, for some reason I had never seen it as a variation of the same pattern as databases and compilers. The control structure varies for each. In "databases" the control structure is defined externally as the calling application makes queries. In "compilers" the control structure is fixed as it queries in a predictable pattern. In "blackboard" the control structure proceeds based on the contents of the data store. 
+
+**The interpreter architectural pattern**
+A legacy application I'm working on currently is suffering because the fundamental model of the system changed from one that matched this pattern easily to one where this pattern may have a place but is no longer the fundamental model.
+
+**The main program and subroutines architectural pattern**
+RPC is an abstraction on single-threaded procedure calls.
+
+**The layered architectural pattern**
+I'm used to the idea of layers but the way in which this is described here hints at a slightly different understanding. I need to dig a bit deeper to see the similarities to how this is typically used today.
