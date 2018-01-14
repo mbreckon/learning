@@ -3,8 +3,8 @@ I've recently decided to go back to the original sources on a range of software 
 
 This repository consists of notes and observations from three main sources of learning:
 
-| Learning
-|
+| Learning | Introduction | Observation | Queue
+| --- | --- | --- | ---
 | Papers | [Introduction](Papers/README.md) | [Observations](Papers/Observations.md) | [Queue](Papers/Queue.md)
 | Talks | [Introduction](Talks/README.md) | [Observations](Talks/Observations.md) | [Queue](Talks/Queue.md)
 | Code Walkthroughs | [Introduction](Walkthroughs/README.md) |[Observations](Walkthroughs/Observations.md) | [Queue](Walkthroughs/Queue.md)
