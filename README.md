@@ -5,9 +5,9 @@ This repository consists of notes and observations from three main sources of le
 
 | Learning | Introduction | Observation | Queue
 | --- | --- | --- | ---
-| Papers | [Introduction](Papers/README.md) | [Observations](Papers/Observations.md) | [Queue](Papers/Queue.md)
-| Talks | [Introduction](Talks/README.md) | [Observations](Talks/Observations.md) | [Queue](Talks/Queue.md)
-| Code Walkthroughs | [Introduction](Walkthroughs/README.md) |[Observations](Walkthroughs/Observations.md) | [Queue](Walkthroughs/Queue.md)
+| Papers | [Introduction](Papers/Intrpduction.md) | [Observations](Papers/Observations.md) | [Queue](Papers/Queue.md)
+| Talks | [Introduction](Talks/Introduction.md) | [Observations](Talks/Observations.md) | [Queue](Talks/Queue.md)
+| Code Walkthroughs | [Introduction](Walkthroughs/Introduction.md) |[Observations](Walkthroughs/Observations.md) | [Queue](Walkthroughs/Queue.md)
 
 
 Each section has a queue of possible source items that might be of interest to others. 
