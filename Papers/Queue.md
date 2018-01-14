@@ -24,3 +24,7 @@
 * On the Criteria To Be Used in Decomposing Systems into Modules - D.L. Parnas
 
 * Go To Statement Considered Harmfal - Dijkstra 
+
+* Meltdown - Moritz Lipp et al.
+
+* Spectre Attacks: Exploiting Speculative Execution - Paul Kocher et al.
