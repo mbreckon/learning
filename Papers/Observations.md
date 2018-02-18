@@ -55,3 +55,31 @@ RPC is an abstraction on single-threaded procedure calls.
 
 **The layered architectural pattern**
 I'm used to the idea of layers but the way in which this is described here hints at a slightly different understanding. I need to dig a bit deeper to see the similarities to how this is typically used today.
+
+
+#### [BECK/CHAM89] Kent Beck & Ward Cunningham. A Laboratory For Teaching Object-Oriented Thinking, OOPSLA'89 Conference Proceedings, October 1989. 
+
+**Key points**
+
+* An anthropomorphic perspective is **necessary** for object-oriented design. Not "optional", not "a helpful guide" but "necessary". 
+
+* Novices in object-oriented programming struggle with regressing back to the sort of "global knowledge" that is possible in procedural programs. This results in their programs being characterised by "gratuitous global variables", "unncessary pointers", and "inappropriate reliance on the implementation of other objects". 
+
+* Learning OO requires a shift in overall approach. I don't think I'd ever recognised quite how big a shift was necessary. They deliberately chose this approach to differentiate OO design from procedural design, hinting that typically OO design is taught in terms of procedural design. This is still likely to be the case as we start people off with the mechanics of programming in terms of if/while/for etc. In many ways this is like starting teaching people assembler. 
+
+* Procedural designs can be characterised at an abstract level as having...
+    1. Processes
+    2. Data
+    3. Data stores
+
+* OO designs can be characterised (as determined by Beck and Cunningham) at an abstract level as having... 
+    1. Class name
+    2. Responsibilities
+    3. Collaborators
+
+... More to come here...
+
+**Things to look into in more depth**
+
+* Why are CRC cards not used? Why do we learn by looking at SOLID, GRASP, pillars of OO and other things? Why don't people like Uncle Bob, who are clearly passionate about trying to correct some of the worst tendancies of procedural thinking being applied to OO, use this technique. What has happened?
+
