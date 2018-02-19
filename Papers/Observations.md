@@ -1,7 +1,7 @@
 # Observations
 * [Some Patterns for Software Architectures](#shaw96-mary-shaw-some-patterns-for-software-architectures-pattern-languages-of-program-design-vol-2-addison-wesley-1996-pp-255-269)
 * [A Laboratory For Teaching Object-Oriented Thinking](#beckcham89-kent-beck--ward-cunningham-a-laboratory-for-teaching-object-oriented-thinking-oopsla89-conference-proceedings-october-1989)
-* [Object-Oriented Programming: An Objective Sense of Style](#object-oriented-programming--an-objective-sense-of-style--oopsla-88-conference-proceedings--september-1988)
+* [Object-Oriented Programming: An Objective Sense of Style](#liebetal88-object-oriented-programming-an-objective-sense-of-style-oopsla88-conference-proceedings-september-1988)
 
 ## [SHAW96] Mary Shaw. Some Patterns for Software Architectures, Pattern Languages of Program Design, Vol 2, Addison-Wesley, 1996. pp 255-269
 
