@@ -1,6 +1,7 @@
 # Observations
 * [Some Patterns for Software Architectures](#shaw96-mary-shaw-some-patterns-for-software-architectures-pattern-languages-of-program-design-vol-2-addison-wesley-1996-pp-255-269)
 * [A Laboratory For Teaching Object-Oriented Thinking](#beckcham89-kent-beck--ward-cunningham-a-laboratory-for-teaching-object-oriented-thinking-oopsla89-conference-proceedings-october-1989)
+* [Object-Oriented Programming: An Objective Sense of Style](#object-oriented-programming--an-objective-sense-of-style--oopsla-88-conference-proceedings--september-1988)
 
 ## [SHAW96] Mary Shaw. Some Patterns for Software Architectures, Pattern Languages of Program Design, Vol 2, Addison-Wesley, 1996. pp 255-269
 
@@ -87,3 +88,29 @@ I'm used to the idea of layers but the way in which this is described here hints
 
 * Why are CRC cards not used? Why do we learn by looking at SOLID, GRASP, pillars of OO and other things? Why don't people like Uncle Bob, who are clearly passionate about trying to correct some of the worst tendancies of procedural thinking being applied to OO, use this technique. What has happened?
 
+## [LIEBetal88] Object-Oriented Programming: An Objective Sense of Style, OOPSLA'88 Conference Proceedings, September 1988.
+
+**Key Points** 
+
+The central claim appears to be...
+
+If you **simultaneously minimise**:
+1. Code duplication
+2. Number of method arguments
+3. Number of methods per class
+
+**...whilst following the Law of Demeter**... 
+
+You will see...
+1. Less coupling between methods
+2. Better information hiding
+3. Narrower interfaces
+4. Methods that are easier to re-use
+5. Easier correctness proofs using structural induction
+6. Easier software maintenance
+
+... More to come here...
+
+**Things to look into in more depth**
+
+* What is a "correctness proof using structural induction"? 
