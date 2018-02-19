@@ -1,4 +1,8 @@
-#### [SHAW96] Mary Shaw. Some Patterns for Software Architectures, Pattern Languages of Program Design, Vol 2, Addison-Wesley, 1996. pp 255-269
+# Observations
+* [Some Patterns for Software Architectures](#shaw96-mary-shaw-some-patterns-for-software-architectures-pattern-languages-of-program-design-vol-2-addison-wesley-1996-pp-255-269)
+* [A Laboratory For Teaching Object-Oriented Thinking](#beckcham89-kent-beck--ward-cunningham-a-laboratory-for-teaching-object-oriented-thinking-oopsla89-conference-proceedings-october-1989)
+
+## [SHAW96] Mary Shaw. Some Patterns for Software Architectures, Pattern Languages of Program Design, Vol 2, Addison-Wesley, 1996. pp 255-269
 
 **Designers use imprecise and informal prose**
 
@@ -57,7 +61,7 @@ RPC is an abstraction on single-threaded procedure calls.
 I'm used to the idea of layers but the way in which this is described here hints at a slightly different understanding. I need to dig a bit deeper to see the similarities to how this is typically used today.
 
 
-#### [BECK/CHAM89] Kent Beck & Ward Cunningham. A Laboratory For Teaching Object-Oriented Thinking, OOPSLA'89 Conference Proceedings, October 1989. 
+## [BECK/CHAM89] Kent Beck & Ward Cunningham. A Laboratory For Teaching Object-Oriented Thinking, OOPSLA'89 Conference Proceedings, October 1989. 
 
 **Key points**
 
