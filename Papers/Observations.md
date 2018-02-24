@@ -2,6 +2,7 @@
 * [Some Patterns for Software Architectures](#shaw96-mary-shaw-some-patterns-for-software-architectures-pattern-languages-of-program-design-vol-2-addison-wesley-1996-pp-255-269)
 * [A Laboratory For Teaching Object-Oriented Thinking](#beckcham89-kent-beck--ward-cunningham-a-laboratory-for-teaching-object-oriented-thinking-oopsla89-conference-proceedings-october-1989)
 * [Object-Oriented Programming: An Objective Sense of Style](#liebetal88-object-oriented-programming-an-objective-sense-of-style-oopsla88-conference-proceedings-september-1988)
+* [Borland Software Craftsmanship: A New Look at Process, Quality and Productivity](#coplien94-borland-software-craftsmanship-a-new-look-at-process-quality-and-productivity)
 
 ## [SHAW96] Mary Shaw. Some Patterns for Software Architectures, Pattern Languages of Program Design, Vol 2, Addison-Wesley, 1996. pp 255-269
 
@@ -117,6 +118,12 @@ You will see...
 ## [COPLIEN94] Borland Software Craftsmanship: A New Look at Process, Quality and Productivity
 
 **Key Points**
+
+Summary (these are mine rather than the direct conclusions from the paper)
+* By daily collaborating on interfaces and individually working on implementations a group can keep a coherent OO design
+* Using a small team and prototyping allows a stable core to be developed before expanding the team
+* The impact of changing interfaces in an OO system is expected to be worse than in a procedural one
+* There is some (perhaps worrying for most orgs) indication that this form of iterative development requires experienced and very productive individuals (rather than it arising from the approach itself)
 
 Organisational
 
