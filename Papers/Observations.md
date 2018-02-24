@@ -114,3 +114,18 @@ You will see...
 **Things to look into in more depth**
 
 * What is a "correctness proof using structural induction"? 
+
+## [COPLIEN94] Borland Software Craftsmanship: A New Look at Process, Quality and Productivity
+
+**Key Points**
+
+* "Quality assurance and project management roles were central to the development sociology, in constrast to the developer-centric software production most often observed in our studes of AT&T telecommunications software"
+
+* The team started off as four core developers who spent six months prototyping and building a stable core product. They were then joined by others up to a total of eight.
+* "The methodology was iterative. Modulo the architectural dialogue, the core developers worked independently."
+* "Early code can be viewed as a series of prototypes that led to architectural decisions, and drove the overall structure of the final system"
+* The analysis of the organisation was carried out using the same analysis as you would perform in understanding an OO design - specifically CRC cards. There is a reference here to the "class" part being commonly referred to as "role". They used the analysis to build a process graph.
+* The resulting graph looks visually quite cluttered (something I find annoying as someone who likes data viz), but this hints at another of Jim Coplien's points that objects have to be coupled to other objects in order to get anything done. This is a "sociology". 
+
+**Things to look into in more depth**
+
