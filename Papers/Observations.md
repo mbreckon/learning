@@ -122,7 +122,8 @@ You will see...
 Summary (these are mine rather than the direct conclusions from the paper)
 * By daily collaborating on interfaces and individually working on implementations a group can keep a coherent OO design
 * Using a small team and prototyping allows a stable core to be developed before expanding the team
-* The impact of changing interfaces in an OO system is expected to be worse than in a procedural one
+* The impact of changing interfaces in an OO system is **expected** to be worse than in a procedural one
+* As anthropomorphism is at the core of object thinking (see CRC cards) then these techniques can be used to analyse organisations
 * There is some (perhaps worrying for most orgs) indication that this form of iterative development requires experienced and very productive individuals (rather than it arising from the approach itself)
 
 Organisational
