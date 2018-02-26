@@ -87,6 +87,7 @@ I'm used to the idea of layers but the way in which this is described here hints
 
 **Things to look into in more depth**
 * Why are CRC cards not used? Why do we learn by looking at SOLID, GRASP, pillars of OO and other things? Why don't people like Uncle Bob, who are clearly passionate about trying to correct some of the worst tendancies of procedural thinking being applied to OO, use this technique. What has happened?
+    * I glimpsed one possible reason in Micheal Feather's "Working with legacy code" where he hints that the reason CRC cards fell by the wayside was that they were swept up in a movement to combine all the different ways of recording OO designs - something that ultimately became UML. Whilst that might be right, it seems tragic that something that teaches and shapes OO designs would get replaced with something that is used primarily to record design.
 
 ## [LIEBetal88] Object-Oriented Programming: An Objective Sense of Style, OOPSLA'88 Conference Proceedings, September 1988.
 
