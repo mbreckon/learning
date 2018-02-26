@@ -85,6 +85,14 @@ I'm used to the idea of layers but the way in which this is described here hints
 
 ... More to come here...
 
+**Other notes**
+* In "Lean Architecture for Agile Software Development, Section 8.6", Coplien and Bjornvig tell the history of CRC cards:
+    * Rebecca Wirfs-Brock (who worked in the same company as Ward Cunningham) popularised them through her book "Responsibility-driven design"
+    * The concept "class" had been used for other concepts such as abstract classes and subsystems.
+    * When Rebecca wrote her second book (Object Oriented Design : Roles, Responsibilites and Collaborations") she wanted to rename "class" to "role". 
+    * CRC was too "sticky" so she left the acronym as "CRC" but remonikered the "C" to "Candidate object"
+    * Therefore today "CRC" really stands for "Candidate Objects, Responsibilities and Collaborations"
+
 **Things to look into in more depth**
 * Why are CRC cards not used? Why do we learn by looking at SOLID, GRASP, pillars of OO and other things? Why don't people like Uncle Bob, who are clearly passionate about trying to correct some of the worst tendancies of procedural thinking being applied to OO, use this technique. What has happened?
     * I glimpsed one possible reason in Micheal Feather's "Working with legacy code" where he hints that the reason CRC cards fell by the wayside was that they were swept up in a movement to combine all the different ways of recording OO designs - something that ultimately became UML. Whilst that might be right, it seems tragic that something that teaches and shapes OO designs would get replaced with something that is used primarily to record design.
