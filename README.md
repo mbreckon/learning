@@ -9,7 +9,7 @@ A lot of it comes from a realisation that it is possible to be a perfectly accep
 
 ## What to expect in this repository
 
-Every week or two I'm going to be looking at a paper - long enough to read, re-read and mull over its contents and implications. Then I'll write a few notes up here. I can't gaurantee they'll be original or even interesting thoughts but if anybody actually ends up reading them then perhaps they'll go and read the original papers for themselves.
+Every week or two I'm going to be looking at a paper - long enough to read, re-read and mull over its contents and implications. Then I'll write a few notes up here. I can't guarantee they'll be original or even interesting thoughts but if anybody actually ends up reading them then perhaps they'll go and read the original papers for themselves.
 * [Some Patterns for Software Architectures](Papers/SHAW96%20-%20Some%20Patterns%20for%20Software%20Architectures.md)
 * [A Laboratory For Teaching Object-Oriented Thinking](Papers/BECKC89%20-%20Laboratory%20For%20Teaching%20OO%20Thinking.md)
 * [Object-Oriented Programming: An Objective Sense of Style](Papers/LIEB88%20-%20OO%20Programming%20An%20Objective%20Sense%20of%20Style.md)
@@ -27,7 +27,7 @@ Every week or two I'm going to be looking at a paper - long enough to read, re-r
 
 * **[TRYGVE03]** Trygve Reenskaug. The Model-View-Controller (MVC) Its Past and Present, Handout, 2013
 
-* **[COPE/TRYGVE14]** James Coplien & Trygve Reenskaug. The DCI Paradigm: Taking Object Orientation into the Architecture World, Agile Software Architecture, Aligning Agile Processes and Software Architectures, 2014, Pages 25–62
+* **[COPE/TRYGVE14]** James Coplien & Trygve Reenskaug. The DCI Paradigm: Taking Object Orientation into the Architecture World, Agile Software Architecture, Aligning Agile Processes and Software Architectures, 2014, Pages 25â€“62
 
 **Need full references**
 * Out of the tar pit - Ben Moseley & Peter Marks
