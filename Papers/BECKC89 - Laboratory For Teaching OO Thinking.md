@@ -24,6 +24,7 @@
 
 * At this point the paper only suggests a wider role in software engineering rather than just as a method for **teaching** OO design
 
+* "Using the cards in group settings we found that even weaker programmers, without a deep understanding of objects, could contribute to object designs"
 
 ** Key points in the technique **
 * Use 4" x 6" index cards
