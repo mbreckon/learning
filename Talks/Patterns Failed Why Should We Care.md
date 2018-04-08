@@ -1,4 +1,4 @@
-## Patterns Failed - Why should we care
+## Patterns Failed - Why should we care? - Brian Marick
 https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care
 
 **Key points**

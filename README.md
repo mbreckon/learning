@@ -1,6 +1,11 @@
 # Introduction
 I've recently decided to go back to the original sources on a range of software engineering and CS topics in order to deepen and strengthen my current practice. My current practice has come from a university degree, observing others, reading blog posts and books, and building various pieces of software over the past 25 years.
 
+This particular stage of my engineering journey emerged out of:
+* being challenged by a colleague who was exploring Object Oriented Design in more depth than widely accepted practice (typically what is called class-oriented programming).
+* watching many Kevlin Henney talks in which he points back to the old papers
+* being challenged by Tom Gilb to "read the papers your heroes read"
+
 # Papers
 
 ## Why bother reading all these old papers?
@@ -17,7 +22,7 @@ Every week or two I'm going to be looking at a paper - long enough to read, re-r
 
 ## Queue
 
-* **[MAJIDI et al. 10]** Emad Majidi, Mahdieh Alemi, Hassan Rashidi. Software Architecture: A Survey and Classification, 2010 Second International Conference on Communication Software and Networks, 2010. 
+* **[BROOKS87]** Brooks, Frederick P., "No Silver Bullet: Essence and Accidents of Software Engineering," Computer, Vol. 20, No. 4 (April 1987) pp. 10-19.
 
 * **[LISKOV88]** Barbara M. Liskov. Data Abstraction and hierarchy, ACM SIGPLAN Notices - Special issue: 'OOPSLA '87: Addendum to the proceedings, Volume 23 Issue 5, May 1988. Pages 17 - 34
 
@@ -48,6 +53,7 @@ Every week or two I'm going to be looking at a paper - long enough to read, re-r
 
 # Talks
 * [The Dehumamisation of Agile and Objects - Jim Coplien](Talks/The%20Dehumamisation%20of%20Agile%20and%20Objects.md)
+* [Patterns Failed - Why should we care? - Brian Marick](Talks/Patterns%20Failed%20Why%20Should%20We%20Care.md)
 
 ## Queue
 
@@ -62,6 +68,8 @@ I've seen many of these talks before but I intend to watch them more closely, ta
 * James Coplien - [The DCI Architecture: Supporting the Agile Agenda](https://vimeo.com/8235574)
 * Simon Brown - ...
 * University of Colorado (Boulder) - [Introduction to software architecture](https://www.youtube.com/watch?v=x30DcBfCJRI&app=desktop)
+
+* Jules May - [If considered harmful](https://www.youtube.com/watch?v=z43bmaMwagI) - really need to read "GOTO Considered Harmful" first as he makes claims that build on this or at least add another layer of interpretation.
 
 Hexagonal Architecture
 * Ian Cooper - [Hexagonal Architecture (Agile Yorkshire)](https://www.youtube.com/watch?v=FJUevNLEtuU)
